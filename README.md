@@ -1,6 +1,9 @@
 Nokia 5110 python library
 =========================
 
+## May 2018 - This is no longer being maintained by the original author.
+## Please feel free to fork, copy, adapt if you find it useable
+
 For Raspberry Pi and virtual-GPIO.
 
 This is a 3.3V device.
